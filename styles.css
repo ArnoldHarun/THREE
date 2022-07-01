@@ -24,19 +24,19 @@ div{
    left: 80px;
 }
 #one:hover{
-    background-color: blue;
+    background-color: goldenrod;
 }
 #two:hover{
-    background-color: blue;
+    background-color: goldenrod;
 }
 #three:hover{
-    background-color: blue;
+    background-color: goldenrod;
 }
 #four:hover{
-    background-color: blue;
+    background-color: goldenrod;
 }
 #five:hover{
-    background-color: blue;
+    background-color: goldenrod;
 }
 
 #two{
