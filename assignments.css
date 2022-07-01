@@ -1,0 +1,26 @@
+body{
+    background-color: whitesmoke;
+    margin:0;
+}
+div{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(66, 174, 201);
+    position: absolute;
+    padding: 60px 20px 20px 20px;
+
+}
+.one{
+    position: absolute;
+    left: 100px;
+}
+.two{
+    position: absolute;
+    left: 280px;
+}
+h1{
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+}

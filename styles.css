@@ -1,0 +1,93 @@
+body{
+    margin-left: 20px;
+    background-color: whitesmoke;
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+
+}
+div{
+    font-size: larger;
+    text-decoration-color: black;
+}
+#one{
+   width: 300px;
+   height: 100px;
+   position: absolute;
+   display: inline;
+   text-align: center;
+   padding: 100px 50px 50px 50px;
+   font-style: oblique;
+   background-color: antiquewhite;
+   position: absolute;
+   left: 80px;
+}
+#one:hover{
+    background-color: blue;
+}
+#two:hover{
+    background-color: blue;
+}
+#three:hover{
+    background-color: blue;
+}
+#four:hover{
+    background-color: blue;
+}
+#five:hover{
+    background-color: blue;
+}
+
+#two{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    display: inline;
+    text-align: center;
+    padding: 100px 50px 50px 50px;
+    font-style: oblique;
+  background-color: greenyellow;
+  position: absolute;
+  right: 70px;
+}
+#three{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    display: inline;
+    text-align: center;
+    padding: 100px 50px 50px 50px;
+    font-style: oblique;
+    background-color: grey;
+    position: absolute;
+    left: 480px;
+    top: 340px;
+    
+
+}
+#four{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    display: inline;
+    text-align: center;
+    padding: 100px 50px 50px 50px;
+    font-style: oblique;
+   background-color: green;
+   left: 80px;
+   top: 590px;
+}
+#five{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    display: inline;
+    text-align: center;
+    padding: 100px 50px 50px 50px;
+    font-style: oblique;
+   background-color:orangered;
+   position: absolute;
+   right: 70px;
+   top: 590px;
+}

@@ -1,0 +1,34 @@
+body{
+    background-color: whitesmoke;
+}
+
+.one{
+    position: absolute;
+    left: 0;
+}
+.two{
+    position: absolute;
+    left: 420px;
+
+}
+.three{
+    position: absolute;
+    left: 840px;
+}
+.four{
+    position: absolute;
+    text-align: center;
+    left: 500px;
+    top: 600px;
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+    text-decoration: underline;
+}
+img{
+    border: 3px solid black;
+}
+p{
+    font-style: oblique;
+}
